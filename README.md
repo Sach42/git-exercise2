@@ -1,7 +1,29 @@
+# readme.preview
 
-# git-exercise2
+# Intro to Readme.md
 
-This is a sample project readme.md file
+How to create Readme.md for github using Markdown 
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+## Authors
+
+- [@SachinShukla](https://github.com/Sach42)
+
+
+## Badges
+
+Add badges from somewhere like: [shields.io](https://shields.io/)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
 ## API Reference
@@ -30,27 +52,6 @@ This is a sample project readme.md file
 
 Takes two numbers and returns the sum.
 
-
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
-## Appendix
-
-Any additional information goes here
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
 ## Color Reference
 
 | Color             | Hex                                                                |
@@ -61,19 +62,52 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`API_KEY`
+
+`ANOTHER_API_KEY`
+
+
 ## 🚀 About Me
 I'm a full stack developer...
 
 
-# Hi, I'm sachin! 👋
+# Hi, I'm Sachin Shukla! 👋
 
 
-## Used By
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-This project is used by the following companies:
 
-- Company 1
-- Company 2
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
 
 
 ## Running Tests
@@ -85,39 +119,10 @@ To run tests, run the following command
 ```
 
 
-## Optimizations
+## Used By
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+This project is used by the following companies:
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Support
-
-For support, email f@f.com 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
+- Company 1
+- Company 2
 
